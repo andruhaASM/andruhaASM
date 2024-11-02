@@ -7,11 +7,11 @@ Always studying and learning new things to achieve my goal in the most ethical a
 
 Lets connect on LinkedIn - https://www.linkedin.com/in/andrii-mishchenko-9b360751/
 
-# For those who are considering hiring me
+### For those who are considering hiring me
 1. See the portfolio of my projects - https://github.com/andruhaASM/portfolio/tree/master. I'm always updating it with new projects.
 2. Don't forget to take a look at my LinkedIn profile - https://www.linkedin.com/in/andrii-mishchenko-9b360751/
 
-### Hi there 👋
+### Olá, tudo bem? 👋
 Eu sou Andrii Mishchenko.
 
 O meu principal objetivo profissional é gerar valor para sociedade através do meu trabalho como Engenheiro de Software.
