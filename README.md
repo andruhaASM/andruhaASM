@@ -20,7 +20,7 @@ Sempre estudando e aprendendo coisas novas para alcançar o meu objetivo da form
 
 Vamos nós conectar no LinkedIn - https://www.linkedin.com/in/andrii-mishchenko-9b360751/
 
-# Para quem está cogitando a me contratar
+### Para quem está cogitando a me contratar
 1. Veja o portfolio dos meus projetos - https://github.com/andruhaASM/portfolio/tree/master. Estou sempre atualizando ele com novos projetos.
 2. Não esqueça de dar uma olhada no meu perfil no LinkedIn - https://www.linkedin.com/in/andrii-mishchenko-9b360751/
 
